@@ -1,0 +1,6 @@
+{
+    "scope": "x_snc_permission_g",
+    "scopeId": "a91a0a97dc404afbb774dfcc0efc55b3",
+    "name": "Permission Grant App",
+    "tsconfigPath": "./src/server/tsconfig.json"
+}
